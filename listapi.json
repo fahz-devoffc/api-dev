@@ -74,3 +74,13 @@
     }
   ]
 }
+{
+  "name": "TikTok Search",
+  "path": "/api/tiktok/search?q=",
+  "desc": "Search TikTok by keyword",
+  "status": "ready",
+  "params": {
+    "q": "keyword",
+    "apikey": "APIKEY"
+  }
+}
