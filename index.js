@@ -18,11 +18,11 @@ app.use(express.static(path.join(__dirname)));
 For setting API name etc
 */
 const title = "EH PI AY DOANG";
-const favicon = "https://raw.githubusercontent.com/upload-file-lab/fileupload7/main/uploads/1764494355026.jpeg?format=png&name=900x900";
-const logo = "https://raw.githubusercontent.com/upload-file-lab/fileupload7/main/uploads/1764494355026.jpeg";
-const headertitle = "REST EH PI AY";
-const headerdescription = "Kumpulan API Endpoint yang mungkin berguna.";
-const footer = "© 2025 IYAYN AJAH";
+const favicon = "https://files.catbox.moe/7h0n2k.jpg";
+const logo = "https://files.catbox.moe/7h0n2k.jpg";
+const headertitle = "Fhz API | Free RESTAPI Indonesian";
+const headerdescription = "Kumpulan Free RESTAPI";
+const footer = "© 2026 FAHZ WHITE";
 
 /*
 Below are the features
