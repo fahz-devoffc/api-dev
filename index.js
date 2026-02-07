@@ -17,11 +17,11 @@ app.use(express.static(path.join(__dirname)));
 /*
 For setting API name etc
 */
-const title = "EH PI AY DOANG";
+const title = "FHZ API | Endpoint";
 const favicon = "https://files.catbox.moe/7h0n2k.jpg";
 const logo = "https://files.catbox.moe/7h0n2k.jpg";
 const headertitle = "Fhz API | Free RESTAPI Indonesian";
-const headerdescription = "Kumpulan Free RESTAPI";
+const headerdescription = "Kumpulan Free Endpoint untuk website mu.";
 const footer = "© 2026 FAHZ WHITE";
 
 /*
